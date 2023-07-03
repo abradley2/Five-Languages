@@ -32,3 +32,7 @@ Get _really good_ at a DSL that is too narrow to really do an entire software pr
 but you certainly wouldn't want to use it that way. Query languages like SQL, markup laguages like HTML/CSS, configuration and project setup like
 Docker, Make. You will constantly be bombarded by having to quickly pick up these single-or-narrow purpose skills in software engineering, so it's
 actually a good idea to have several of these in your back pocket- but at the very least get _really good_ with one.
+
+BONUS:
+
+A language that you enjoy using. Knowing something from every category above, the language that really delights becomes a true window into your thought process as a software engineer.
